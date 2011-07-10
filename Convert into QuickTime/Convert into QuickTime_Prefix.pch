@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Convert into QuickTime' target in the 'Convert into QuickTime' project.
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
