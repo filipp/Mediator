@@ -20,7 +20,7 @@
 	<key>AMCanShowWhenRun</key>
 	<true/>
 	<key>AMCategory</key>
-	<string>Mediator</string>
+	<string>Movies</string>
 	<key>AMDefaultParameters</key>
 	<dict/>
 	<key>AMDescription</key>
